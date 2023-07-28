@@ -15,6 +15,8 @@ Autores y reconocimiento
 
 ```
 
+## Link de la pagina
+> https://jos-mlp.github.io/HackFest/
 
 ## Contribución
 Los pull request son bienvenidos. Especificar el cambio que se esta aplicando para poder ser revisado e incorporado a la rama principal.
